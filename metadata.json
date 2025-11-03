@@ -1,0 +1,5 @@
+{
+  "name": "Text-to-Speech Synthesizer",
+  "description": "A tool to convert text into high-quality speech using a variety of voices, powered by Google's Gemini API. Input your text, select a voice, and generate audio instantly.",
+  "requestFramePermissions": []
+}
